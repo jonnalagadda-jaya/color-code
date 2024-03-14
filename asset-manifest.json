@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color-code/static/css/main.398b14de.css",
+    "main.js": "/color-code/static/js/main.e632698d.js",
+    "static/js/453.c06debde.chunk.js": "/color-code/static/js/453.c06debde.chunk.js",
+    "index.html": "/color-code/index.html",
+    "main.398b14de.css.map": "/color-code/static/css/main.398b14de.css.map",
+    "main.e632698d.js.map": "/color-code/static/js/main.e632698d.js.map",
+    "453.c06debde.chunk.js.map": "/color-code/static/js/453.c06debde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.398b14de.css",
+    "static/js/main.e632698d.js"
+  ]
+}
